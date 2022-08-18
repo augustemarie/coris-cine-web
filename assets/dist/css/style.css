@@ -412,10 +412,15 @@ top: 1050px; */
     
     .movie-card {
         position: relative;
-        width: 200px;
-        height: 220px;
+        width: 200px !important;
+        height: 220px !important;
         margin-right: 20px;
         margin-left: 20px;
+    }
+
+    .movie-card img {
+        width: 100% !important;
+        height: 100% !important;
     }
     
     .filter-movie-card {
