@@ -1,5 +1,3 @@
-<?php require(BASE_DIR . '/__templates/public/partials/header.php'); ?>
-
 <body><br>
 <div>
     <div>
@@ -17,7 +15,7 @@
 
     <div class="row row_wrap">
         <div class="col-3">
-            <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+            <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
             <b class="subt">Aldan</b>
             <p class="desc_contenu">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -25,7 +23,7 @@
             </p>
         </div>
         <div class="col-3">
-            <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+            <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
             <b class="subt">Aldan</b>
             <p class="desc_contenu">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -33,7 +31,7 @@
             </p>
         </div>
         <div class="col-3">
-            <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+            <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
             <b class="subt">Aldan</b>
             <p class="desc_contenu">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -41,7 +39,7 @@
             </p>
         </div>
         <div class="col-3">
-            <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+            <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
             <b class="subt">Aldan</b>
             <p class="desc_contenu">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -50,7 +48,7 @@
         </div>
         <div class="row row_wrap">
             <div class="col-3">
-                <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+                <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
                 <b class="subt">Aldan</b>
                 <p class="desc_contenu">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -58,7 +56,7 @@
                 </p>
             </div>
             <div class="col-3">
-                <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+                <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
                 <b class="subt">Aldan</b>
                 <p class="desc_contenu">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -66,7 +64,7 @@
                 </p>
             </div>
             <div class="col-3">
-                <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+                <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
                 <b class="subt">Aldan</b>
                 <p class="desc_contenu">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -74,7 +72,7 @@
                 </p>
             </div>
             <div class="col-3">
-                <img src="assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
+                <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="movie-card"><br>
                 <b class="subt">Aldan</b>
                 <p class="desc_contenu">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -84,5 +82,3 @@
 
 
 </body>
-
-<?php require(BASE_DIR . '/__templates/public/partials/footer.php'); ?>

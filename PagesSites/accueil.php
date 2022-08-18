@@ -1,5 +1,3 @@
-<?php require(BASE_DIR . '/__templates/public/partials/header.php'); ?>
-
 
 <body>
 <br>
@@ -13,7 +11,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="assets/images/Ima.png" class="d-block w-100">
+                <img src="../assets/images/Ima.png" class="d-block w-100">
                 <div class="">
                     <div class="carousel-caption text-start">
 
@@ -25,7 +23,7 @@
                 </div>
             </div>
             <div class="carousel-item ">
-                <img src="assets/images/Ima.png" class="d-block w-100">
+                <img src="../assets/images/Ima.png" class="d-block w-100">
                 <div class="">
                     <div class="carousel-caption text-start">
                         <div class="caption_in">
@@ -36,7 +34,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="assets/images/Ima.png" class="d-block w-100">
+                <img src="../assets/images/Ima.png" class="d-block w-100">
                 <div class="">
                     <div class="carousel-caption text-start">
                         <div class="caption_in">
@@ -61,7 +59,7 @@
 <b class="titre_slider">Sélectionné pour vous !</b>
 <div class="slider">
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -70,7 +68,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -79,7 +77,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -88,7 +86,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -97,7 +95,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -106,7 +104,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -115,7 +113,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -124,7 +122,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -142,7 +140,7 @@
 <b class="titre_slider"> Films</b>
 <div class="slider">
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -151,7 +149,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -160,7 +158,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -169,7 +167,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -178,7 +176,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -187,7 +185,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -196,7 +194,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -205,7 +203,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -232,7 +230,7 @@
 <b class="titre_slider"> Séries</b>
 <div class="slider">
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -241,7 +239,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -250,7 +248,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -259,7 +257,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -268,7 +266,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -277,7 +275,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -286,7 +284,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -295,7 +293,7 @@
         </div>
     </div>
     <div class="movie-card">
-        <img src="assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
+        <img src="../assets/images/ALVDAN_P3.jpg.jpg" class="assets/image-slider">
         <div class="filter-movie-card">
             <div class="title-bottom">
                 <b class="movie-card-title"> Aldan </b><br/>
@@ -313,5 +311,3 @@
 
 </body>
 </html>
-
-<?php require(BASE_DIR . '/__templates/public/partials/footer.php'); ?>

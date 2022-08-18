@@ -39,3 +39,20 @@ if (!function_exists('go')) {
 }
 
 
+
+if (!function_exists('isOdd')) {
+    function isEven($to) {
+        return ($number % 2 == 0);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
