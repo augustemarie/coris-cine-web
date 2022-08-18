@@ -27,6 +27,6 @@
 
     </div>
 </div>
-</body>
+
 
 <?php require(BASE_DIR . '/__templates/public/partials/footer.php'); ?>
