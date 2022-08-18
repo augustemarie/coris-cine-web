@@ -820,10 +820,14 @@ footer {
 
 
 
+.slick-prev .slick-arrow {
+    display: none !important;
+}
 
 
-
-
+.slick-next .slick-arrow {
+    display: none !important;
+}
 
 
 
